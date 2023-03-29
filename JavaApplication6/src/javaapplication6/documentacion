@@ -1,0 +1,16 @@
+/********************************************************************************
+* como puntos extras a considerar lo que se impllento fue que los 4 juagodres   *
+* fueran  humanos en vez de agregar la IA ya que lo unico que se hace es hacer  *
+* hacer 4 veces la instancia del objeto jugador, ya que el juego esta pensado   *
+* para que fuera posible agregar a más jugadores, por que todas las             *
+* compraciones se hacen con el jugador actual,                                  *
+*                                                                               *
+* por otra parte, la interfaz                                                   *
+* grafica se hizo con los metodos de JOptionPane ya que era más sencillo        *
+* representar las fichas, debido a que al usar el IDE de NetBeans tuve un       *
+* problema con las imagnes ya que no se pueden insertar, y contruir las fichas  *
+* consumiria más recursus y seria más tardado hacerlo de esta forma, dicho      *
+* dicho problema lo llevo presentado desde hace ya bastante tiempo por lo que   *
+*aun no encuentro una solucion factible al mismo, es por ello que decidi usar   *
+* JOptionPáne para la interfaz grafica y asi ya no usar la linea de comandos .  *
+********************************************************************************/
